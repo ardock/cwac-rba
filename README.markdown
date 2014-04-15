@@ -16,9 +16,9 @@ Step #3: If there is no `templates/` directory inside of `extras/`, create one.
 If there is no `activities/` directory inside of `templates/`, create that too.
 
 Step #4: Clone this repo (or unZIP the ZIP file) into `templates/activities/`.
-You should wind up with something like `extras/templates/activities/ReallyBlankActivity/`.
+You should wind up with something like `extras/templates/activities/cwac-rba/`.
 
-(Pro tip: if you are on Linux, symlinks work here, so you could have `ReallyBlankActivity`
+(Pro tip: if you are on Linux, symlinks work here, so you could have `cwac-rba`
 elsewhere in your filesystem and have a symlink pointing to it in
 `extras/templates/activities`)
 
