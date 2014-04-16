@@ -6,6 +6,9 @@ blank activity. This is a stopgap workaround for the R22.6.x generation of built
 templates that add `appcompat` and other stuff to your project when you try creating
 an activity through one of the ADT wizards.
 
+**NOTE**: Some of the extra `appcompat` stuff comes from the new-project wizard, not the new-activity wizard.
+That will be addressd in a future update to this project.
+
 Usage
 -----
 Step #1: Find your Android SDK installation.
